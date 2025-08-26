@@ -15,5 +15,13 @@ Your first job as a new chef in our kitchen is to introduce yourself!
 
 ### Canteen Chefs 👨‍🍳👩‍🍳
 
-* [Jal]
+
+Bhaumik Rahate 
+
+
+* [Add Your Name Here]
+
+* [Jal]]
+* 
 * Prerak Gada
+
