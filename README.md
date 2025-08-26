@@ -14,6 +14,8 @@ Your first job as a new chef in our kitchen is to introduce yourself!
 4.  **Commit** your change directly to your `main` branch.
 
 ### Canteen Chefs 👨‍🍳👩‍🍳
+* Rishik Jariwala
+=======
 
 
 * [Add Your Name Here]
@@ -23,4 +25,5 @@ Hitansh Jasani
 * [Jal]
 
 * Prerak Gada
+
 
