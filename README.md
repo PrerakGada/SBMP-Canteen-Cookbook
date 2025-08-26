@@ -18,7 +18,11 @@ Your first job as a new chef in our kitchen is to introduce yourself!
 
 * [Add Your Name Here]
 
+
+* Ronit Doshi
+
 Hitansh Jasani
+
 
 * [Jal]
 
