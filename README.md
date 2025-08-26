@@ -13,12 +13,11 @@ Your first job as a new chef in our kitchen is to introduce yourself!
 3.  Add your name to the list of chefs below.
 4.  **Commit** your change directly to your `main` branch.
 
-### Canteen Chefs 👨‍🍳👩‍🍳
+### Canteen Chefs 👨‍🍳👩‍
 
+* Neev Panchal 
 
-* [Add Your Name Here]
-
-Hitansh Jasani
+* Hitansh Jasani
 
 * [Jal]
 
