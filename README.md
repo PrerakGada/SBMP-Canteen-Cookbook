@@ -14,4 +14,10 @@ Your first job as a new chef in our kitchen is to introduce yourself!
 4.  **Commit** your change directly to your `main` branch.
 
 ### Canteen Chefs 👨‍🍳👩‍🍳
+
 Bhaumik Rahate 
+
+
+* [Add Your Name Here]
+* Prerak Gada
+
