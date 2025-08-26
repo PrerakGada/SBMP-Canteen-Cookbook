@@ -22,6 +22,8 @@ Your first job as a new chef in our kitchen is to introduce yourself!
 
 Hitansh Jasani
 
+* [Devanshi]
+* [Add Your Name Here]
 * [Jal]
 
 * Prerak Gada
